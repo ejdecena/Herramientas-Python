@@ -17,7 +17,7 @@ En *Herramientas Python* presentamos un conjunto de notebooks sobre las librerí
 
 ## Contribuciones.
 
-El contenido de este repositorio es abierto; esto quiere decir que cualquier persona interesada puede contribuir a él. Todas las contribuciones serán bien recibidas incluyendo:
+El contenido de este repositorio es abierto; esto quiere decir que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bien recibidas, incluyendo:
 
 * Correcciones ortográficas.
 * Nuevas figuras.
