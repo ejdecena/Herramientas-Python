@@ -26,4 +26,4 @@ El contenido de este repositorio es abierto; esto quiere decir que cualquier per
 * Mejores explicaciones. 
 * Correcciones de errores conceptuales.
 
-La forma de contribuir es vía la interfaz de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/ejdecena/herramientas_python/pulls), y los problemas/bugs por [*Issues*](https://github.com/ejdecena/herramientas_python/issues).
+La forma de contribuir es vía la interfaz de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/ejdecena/herramientas_python/pulls), o reportando los problemas/bugs del repositorio por [*Issues*](https://github.com/ejdecena/herramientas_python/issues).
