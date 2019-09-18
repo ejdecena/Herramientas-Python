@@ -1,13 +1,13 @@
 # Herramientas Python.
 
-En *Herramientas Python* presentamos un conjunto de notebooks sobre las librerías fundamentales para los cursos de *Cálculo Numérico* y *Ciencia de Datos* en [Python](https://www.python.org).
+*Herramientas Python* es un conjunto de notebooks sobre las librerías fundamentales para los cursos de *Cálculo Numérico* y *Ciencia de Datos* en *[Python]*(https://www.python.org).
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
 ## Indice de contenido.
 
-* *Lenguaje Python*: [(00_lenguaje_python.ipynb)](00_lenguaje_python.ipynb)
-* *Jupyter Notebook*: [(01_jupyter_notebook.ipynb)](01_jupyter_notebook.ipynb)
+* *Jupyter Notebook*: [(00_jupyter_notebook.ipynb)](00_jupyter_notebook.ipynb)
+* *Lenguaje Python*: [(01_lenguaje_python.ipynb)](01_lenguaje_python.ipynb)
 * *Numpy*: [(02_numpy.ipynb)](02_numpy.ipynb)
 * *Matplotlib*: [(03_matplotlib.ipynb)](03_matplotlib.ipynb)
 * *Scipy*: [(04_scipy.ipynb)](04_scipy.ipynb)
