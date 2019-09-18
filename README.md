@@ -6,14 +6,14 @@
 
 ## Indice de contenido.
 
-* *Jupyter Notebook*: Entorno de desarrollo de código *Python*. [(00_jupyter_notebook.ipynb)](00_jupyter_notebook.ipynb)
-* *Lenguaje Python*: Descripción de la sintaxis, estrucruras y objetos de *Python*. [(01_lenguaje_python.ipynb)](01_lenguaje_python.ipynb)
-* *Numpy*: Librería para el manejo y cálculo matemático de matrices y vectores. [(02_numpy.ipynb)](02_numpy.ipynb)
-* *Matplotlib*: Librería para la visualización de datos en 2D y 3D. [(03_matplotlib.ipynb)](03_matplotlib.ipynb)
-* *Scipy*: Librerías que contiene distintos algoritmos de cálculo numérico y optimización. [(04_scipy.ipynb)](04_scipy.ipynb)
-* *Statsmodels*: Librerías para el análisis y cálculo de numérico de funciones estadísticas. [(05_statsmodels.ipynb)](05_statsmodels.ipynb)
-* *Pandas*: Librería para el procesamiento de datos. [(06_pandas.ipynb)](06_pandas.ipynb)
-* *Scikit Learn*: Librería para el desarrollo de modelos de Aprendizaje Automático. [(07_scikit_learn.ipynb)](07_scikit_learn.ipynb)
+* **Jupyter Notebook**: Entorno de desarrollo de código *Python*. [(00_jupyter_notebook.ipynb)](00_jupyter_notebook.ipynb)
+* **Lenguaje Python**: Descripción de la sintaxis, estrucruras y objetos de *Python*. [(01_lenguaje_python.ipynb)](01_lenguaje_python.ipynb)
+* **Numpy**: Librería para el manejo y cálculo matemático de matrices y vectores. [(02_numpy.ipynb)](02_numpy.ipynb)
+* **Matplotlib**: Librería para la visualización de datos en 2D y 3D. [(03_matplotlib.ipynb)](03_matplotlib.ipynb)
+* **Scipy**: Librerías que contiene distintos algoritmos de cálculo numérico y optimización. [(04_scipy.ipynb)](04_scipy.ipynb)
+* **Statsmodels**: Librerías para el análisis y cálculo de numérico de funciones estadísticas. [(05_statsmodels.ipynb)](05_statsmodels.ipynb)
+* **Pandas**: Librería para el procesamiento de datos. [(06_pandas.ipynb)](06_pandas.ipynb)
+* **Scikit Learn**: Librería para el desarrollo de modelos de Aprendizaje Automático. [(07_scikit_learn.ipynb)](07_scikit_learn.ipynb)
 
 ## Contribuciones.
 
