@@ -4,11 +4,16 @@
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
+## Desarrolladores.
+
+* [Ing. Edgard Decena.](mailto:edecena@gmail.com)
+* [Ing. Luís Acevedo.](mailto:laar19@protonmail.com)
+
 ## Indice de contenido.
 
 * **Jupyter Notebook**: Entorno de desarrollo de código *Python*. [(00_jupyter_notebook.ipynb)](00_jupyter_notebook.ipynb)
 * **Lenguaje Python**: Descripción de la sintaxis, estructuras y objetos de *Python*. [(01_lenguaje_python.ipynb)](01_lenguaje_python.ipynb)
-* **Numpy**: Librería para el manejo y cálculo matemático de matrices y vectores. [(02_numpy.ipynb)](02_numpy.ipynb)
+* **Numpy**: Librería para el manejo y cálculo numérico de matrices y vectores. [(02_numpy.ipynb)](02_numpy.ipynb)
 * **Matplotlib**: Librería para la visualización de datos en 2D y 3D. [(03_matplotlib.ipynb)](03_matplotlib.ipynb)
 * **Scipy**: Librería que contiene distintos algoritmos de cálculo numérico y optimización. [(04_scipy.ipynb)](04_scipy.ipynb)
 * **Statsmodels**: Librería para el análisis y cálculo de numérico de funciones estadísticas. [(05_statsmodels.ipynb)](05_statsmodels.ipynb)
