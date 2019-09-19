@@ -16,7 +16,7 @@
 * **Numpy**: Librería para el manejo y cálculo numérico de matrices y vectores. [(02_numpy.ipynb)](02_numpy.ipynb)
 * **Matplotlib**: Librería para la visualización de datos en 2D y 3D. [(03_matplotlib.ipynb)](03_matplotlib.ipynb)
 * **Scipy**: Librería que contiene distintos algoritmos de cálculo numérico y optimización. [(04_scipy.ipynb)](04_scipy.ipynb)
-* **Statsmodels**: Librería para el análisis y cálculo de numérico de funciones estadísticas. [(05_statsmodels.ipynb)](05_statsmodels.ipynb)
+* **Statsmodels**: Librería para el análisis y cálculo numérico de funciones estadísticas. [(05_statsmodels.ipynb)](05_statsmodels.ipynb)
 * **Pandas**: Librería para el procesamiento de datos. [(06_pandas.ipynb)](06_pandas.ipynb)
 * **Scikit Learn**: Librería para el desarrollo de modelos de Aprendizaje Automático. [(07_scikit_learn.ipynb)](07_scikit_learn.ipynb)
 
