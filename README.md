@@ -11,14 +11,14 @@
 
 ## Indice de contenido.
 
-* **Jupyter Notebook**: Entorno de desarrollo de código *Python*. [(00_jupyter_notebook.ipynb)](00_jupyter_notebook.ipynb)
-* **Lenguaje Python**: Descripción de la sintaxis, estructuras y objetos de *Python*. [(01_lenguaje_python.ipynb)](01_lenguaje_python.ipynb)
-* **Numpy**: Librería para el manejo y cálculo numérico de matrices y vectores. [(02_numpy.ipynb)](02_numpy.ipynb)
-* **Matplotlib**: Librería para la visualización de datos en 2D y 3D. [(03_matplotlib.ipynb)](03_matplotlib.ipynb)
-* **Scipy**: Librería que contiene distintos algoritmos de cálculo numérico y optimización. [(04_scipy.ipynb)](04_scipy.ipynb)
-* **Statsmodels**: Librería para el análisis y cálculo numérico de funciones estadísticas. [(05_statsmodels.ipynb)](05_statsmodels.ipynb)
-* **Pandas**: Librería para el procesamiento de datos. [(06_pandas.ipynb)](06_pandas.ipynb)
-* **Scikit Learn**: Librería para el desarrollo de modelos de Aprendizaje Automático. [(07_scikit_learn.ipynb)](07_scikit_learn.ipynb)
+* [**Jupyter Notebook**](00_jupyter_notebook.ipynb): Entorno de desarrollo de código *Python*.
+* [**Lenguaje Python**](01_lenguaje_python.ipynb): Descripción de la sintaxis, estructuras y objetos de *Python*.
+* [**Numpy**](02_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
+* [**Matplotlib**](03_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
+* [**Scipy**](04_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
+* [**Statsmodels**](05_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
+* [**Pandas**](06_pandas.ipynb): Librería para el procesamiento de datos.
+* [**Scikit Learn**](07_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático. [(07_scikit_learn.ipynb)]
 
 ## Contribuciones.
 
