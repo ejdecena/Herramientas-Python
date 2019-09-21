@@ -18,7 +18,7 @@
 * [**Scipy**](04_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
 * [**Statsmodels**](05_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
 * [**Pandas**](06_pandas.ipynb): Librería para el procesamiento de datos.
-* [**Scikit Learn**](07_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático. [(07_scikit_learn.ipynb)]
+* [**Scikit Learn**](07_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático.
 
 ## Contribuciones.
 
