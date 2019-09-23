@@ -50,7 +50,6 @@ Este repositorio es un **trabajo en progreso**, por lo que aún están pendiente
     - [Pandas](06_pandas.ipynb).
     - [Statsmodels](06_statsmodels.ipynb).
     - [Scikit Learn](08_scikit_learn.ipynb).
-* Añadir líneas a los títulos de segundo nivel en todos los notebooks.
 
 ## Contribuciones.
 
