@@ -22,7 +22,7 @@
 
 ## Dependencias.
 
-Este proyecto requiere las siguientes dependencias externas:
+Este proyecto requiere de las siguientes dependencias externas:
 
 * *Jupyter 1.0.0*
 * *Numpy 1.16.4*
