@@ -47,8 +47,8 @@ Este repositorio es un **trabajo en progreso**, por lo que aún están pendiente
 * Completar los notebooks:
     - [Control de Versiones GIT](00_control_git.ipynb).
     - [Scipy](05_scipy.ipynb).
-    - [Statsmodels](06_statsmodels.ipynb).
     - [Pandas](06_pandas.ipynb).
+    - [Statsmodels](06_statsmodels.ipynb).
     - [Scikit Learn](08_scikit_learn.ipynb).
 * Añadir líneas a los títulos de segundo nivel en todos los notebooks.
 
