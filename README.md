@@ -1,5 +1,5 @@
 # Herramientas Python.
-***
+
 *Herramientas Python* es un conjunto de notebooks de aprendizaje sobre las librerías fundamentales para los cursos de *Cálculo Numérico* y *Ciencia de Datos* en [*Python*](https://www.python.org).
 
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
@@ -24,15 +24,15 @@
 
 Este proyecto requiere las siguientes dependencias externas:
 
-* Jupyter 1.0.0
-* Numpy 1.16.4
-* Matplotlib 3.0.3
-* Seaborn 0.9.0
-* Scipy 1.3.0
-* Statsmodels 0.10.0
-* Xlrd 1.2.0
-* Pandas 0.24.2
-* Scikit Learn 0.21.2
+* *Jupyter 1.0.0*
+* *Numpy 1.16.4*
+* *Matplotlib 3.0.3*
+* *Seaborn 0.9.0*
+* *Scipy 1.3.0*
+* *Statsmodels* 0.10.0
+* *Xlrd 1.2.0*
+* *Pandas 0.24.2*
+* *Scikit Learn 0.21.2*
 
 Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse todas mediante la ejecución de una única instrucción en la terminal:
 ```bash
