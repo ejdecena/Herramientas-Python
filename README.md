@@ -5,13 +5,13 @@
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
 ## Desarrolladores.
-***
+
 * [Ing. Edgard Decena.](mailto:edecena@gmail.com)
 * [Ing. Luís Acevedo.](mailto:laar19@protonmail.com)
 
 ## Indice de contenido.
-***
-* [**Control de Versiones GIT**](00_control_git.ipynb): Guía de uso del Sistema de Control de Versiones GIT.
+
+* [**Control de Versiones GIT**](00_control_git.ipynb): Guía de uso del sistema de control de versiones GIT.
 * [**Lenguaje Python**](00_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
 * [**Jupyter Notebook**](01_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
 * [**Numpy**](02_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
@@ -22,7 +22,7 @@
 * [**Scikit Learn**](07_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático.
 
 ## Dependencias.
-***
+
 Este proyecto requiere de las siguientes dependencias externas:
 
 * *Jupyter 1.0.0*
@@ -41,19 +41,19 @@ pip install -r requirements.txt
 ```
 
 ## TODO.
-***
+
 Este repositorio es un **trabajo en progreso**, por lo que aún están pendientes por hacer las siguientes tareas:
 
 * Completar los notebooks:
-    * [Control de Versiones GIT](00_control_git.ipynb).
-    * [Scipy](04_scipy.ipynb).
-    * [Statsmodels](05_statsmodels.ipynb).
-    * [Pandas](06_pandas.ipynb).
-    * [Scikit Learn](07_scikit_learn.ipynb).
+    - [Control de Versiones GIT](00_control_git.ipynb).
+    - [Scipy](04_scipy.ipynb).
+    - [Statsmodels](05_statsmodels.ipynb).
+    - [Pandas](06_pandas.ipynb).
+    - [Scikit Learn](07_scikit_learn.ipynb).
 * Añadir líneas a los títulos de segundo nivel en todos los notebooks.
 
 ## Contribuciones.
-***
+
 Este repositorio es de *código abierto*; lo que quiere decir que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bienvenidas, incluyendo:
 
 * Correcciones ortográficas.
