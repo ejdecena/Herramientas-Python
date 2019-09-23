@@ -5,12 +5,13 @@
 <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
 ## Desarrolladores.
-
+***
 * [Ing. Edgard Decena.](mailto:edecena@gmail.com)
 * [Ing. Luís Acevedo.](mailto:laar19@protonmail.com)
 
 ## Indice de contenido.
-
+***
+* [**Control de Versiones GIT**](00_control_git.ipynb): Guía de uso del Sistema de Control de Versiones GIT.
 * [**Lenguaje Python**](00_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
 * [**Jupyter Notebook**](01_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
 * [**Numpy**](02_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
@@ -21,7 +22,7 @@
 * [**Scikit Learn**](07_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático.
 
 ## Dependencias.
-
+***
 Este proyecto requiere de las siguientes dependencias externas:
 
 * *Jupyter 1.0.0*
@@ -34,20 +35,32 @@ Este proyecto requiere de las siguientes dependencias externas:
 * *Pandas 0.24.2*
 * *Scikit Learn 0.21.2*
 
-Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse todas mediante la ejecución de una única instrucción en la terminal:
+Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse mediante la ejecución de una única instrucción en la terminal:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Contribuciones.
+## TODO.
+***
+Este repositorio es un **trabajo en progreso**, por lo que aún están pendientes por hacer las siguientes tareas:
 
-El contenido de este repositorio es abierto; esto quiere decir que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bien recibidas, incluyendo:
+* Completar los notebooks:
+    * [Control de Versiones GIT](00_control_git.ipynb).
+    * [Scipy](04_scipy.ipynb).
+    * [Statsmodels](05_statsmodels.ipynb).
+    * [Pandas](06_pandas.ipynb).
+    * [Scikit Learn](07_scikit_learn.ipynb).
+* Añadir líneas a los títulos de segundo nivel en todos los notebooks.
+
+## Contribuciones.
+***
+Este repositorio es de *código abierto*; lo que quiere decir que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bienvenidas, incluyendo:
 
 * Correcciones ortográficas.
 * Nuevas figuras.
-* Correcciones en el código Python, incluídas mejoras de estilo.
+* Correcciones en el código *Python*, incluídas mejoras de estilo.
 * Mejores ejemplos.
 * Mejores explicaciones. 
 * Correcciones de errores conceptuales.
 
-La forma de contribuir es vía la interfaz de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/ejdecena/herramientas_python/pulls), o reportando los problemas/bugs del repositorio por [*Issues*](https://github.com/ejdecena/herramientas_python/issues).
+La forma de contribuir es vía la interfaz web de *GitHub*, mediante peticiones de [*Pull requests*](https://github.com/ejdecena/herramientas_python/pulls), o reportando los problemas/bugs del repositorio por [*Issues*](https://github.com/ejdecena/herramientas_python/issues).
