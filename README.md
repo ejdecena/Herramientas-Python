@@ -12,7 +12,7 @@
 ## Indice de contenido.
 
 * [**Lenguaje Python**](00_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
-* [**Jupyter Notebook**](01_jupyter_notebook.ipynb): Entorno de desarrollo intractivo de código *Python*.
+* [**Jupyter Notebook**](01_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
 * [**Numpy**](02_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
 * [**Matplotlib**](03_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
 * [**Scipy**](04_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
