@@ -23,14 +23,14 @@
 
 ## Dependencias.
 
-Este proyecto requiere de las siguientes dependencias externas:
+Este proyecto requiere la instalación de las siguientes dependencias externas:
 
 * *Jupyter 1.0.0*
 * *Numpy 1.16.4*
 * *Matplotlib 3.0.3*
 * *Seaborn 0.9.0*
 * *Scipy 1.3.0*
-* *Statsmodels* 0.10.0
+* *Statsmodels 0.10.0*
 * *Xlrd 1.2.0*
 * *Pandas 0.24.2*
 * *Scikit Learn 0.21.2*
