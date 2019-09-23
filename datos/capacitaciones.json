@@ -1,0 +1,111 @@
+{
+    "atributos": [
+        {
+            "descripcion": "Identificador Único del Organismo - Administración Nacional de Correos (www.unaoid.gub.uy)",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "OID"
+        },
+        {
+            "descripcion": "Tipo de organización pública: Ministerio, Gobierno Departamental, Ente autónomo, etc.",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tipo organismo"
+        },
+        {
+            "descripcion": "Número de inciso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Inciso"
+        },
+        {
+            "descripcion": "Unidad Ejecutora",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "UE"
+        },
+        {
+            "descripcion": "Nombre del Inciso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre inciso"
+        },
+        {
+            "descripcion": "Nombre de la Unidad Ejecutora",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre UE"
+        },
+        {
+            "descripcion": "Nombre del Organismo, de acuerdo a la Ley Orgánica de la ANC (art. 747 de la 16.736 y modif), en caso de que no corresponda la identificación de Inciso/UE",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre organismo"
+        },
+        {
+            "descripcion": "Nombre del curso",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Nombre curso"
+        },
+        {
+            "descripcion": "Tipo de capacitación",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Tipo de capacitacion"
+        },
+        {
+            "descripcion": "Descripción del contenido de la capacitación",
+            "informacionAdicional": "",
+            "tipoDeDato": "String",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Descripcion"
+        },
+        {
+            "descripcion": "Cantidad de funcionarios inscriptos",
+            "informacionAdicional": "",
+            "tipoDeDato": "Integer",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cantidad de funcionarios"
+        },
+        {
+            "descripcion": "Cantidad de funcionarios que aprobaron la capacitación",
+            "informacionAdicional": "",
+            "tipoDeDato": "Integer",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cantidad de aprobados"
+        },
+        {
+            "descripcion": "Cantidad de funcionarios que reprobaron la capacitación",
+            "informacionAdicional": "el valor vacio indica que no existen reprobados",
+            "tipoDeDato": "Integer",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cantidad de reprobados"
+        },
+        {
+            "descripcion": "Cantidad de abandonos",
+            "informacionAdicional": "el valor vacio indica que no existen abandonos",
+            "tipoDeDato": "Integer",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Cantidad de abandonos"
+        },
+        {
+            "descripcion": "Fecha de la capacitación",
+            "informacionAdicional": "",
+            "tipoDeDato": "Date",
+            "recursoRelacionado": "",
+            "nombreDeAtributo": "Fecha"
+        }
+    ],
+    "titulo": "Metadatos de los datos de capacitaciones realizadas  junio 2018",
+    "descripcion": "Este recurso contiene los metadatos de los datos de capacitaciones realizadas junio 2018"
+}
