@@ -35,7 +35,7 @@ Este proyecto requiere la instalación de las siguientes dependencias externas:
 * *Pandas 0.24.2*
 * *Scikit Learn 0.21.2*
 
-Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse mediante la ejecución de una única instrucción en la terminal:
+Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse todas mediante la ejecución de una única instrucción en la terminal:
 ```bash
 pip install -r requirements.txt
 ```
