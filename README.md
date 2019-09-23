@@ -12,14 +12,14 @@
 ## Indice de contenido.
 
 * [**Control de Versiones GIT**](00_control_git.ipynb): Guía de uso del sistema de control de versiones GIT.
-* [**Lenguaje Python**](00_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
-* [**Jupyter Notebook**](01_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
-* [**Numpy**](02_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
-* [**Matplotlib**](03_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
-* [**Scipy**](04_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
-* [**Statsmodels**](05_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
-* [**Pandas**](06_pandas.ipynb): Librería para el procesamiento de datos.
-* [**Scikit Learn**](07_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático.
+* [**Lenguaje Python**](01_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
+* [**Jupyter Notebook**](02_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
+* [**Numpy**](03_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
+* [**Matplotlib**](04_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
+* [**Scipy**](05_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
+* [**Statsmodels**](06_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
+* [**Pandas**](07_pandas.ipynb): Librería para el procesamiento de datos.
+* [**Scikit Learn**](08_scikit_learn.ipynb): Librería para el desarrollo de modelos de Aprendizaje Automático.
 
 ## Dependencias.
 
@@ -40,16 +40,16 @@ Estas dependencias pueden instalarse por separado siguiendo las instrucciones pr
 pip install -r requirements.txt
 ```
 
-## TODO.
+## TODO (por hacer).
 
 Este repositorio es un **trabajo en progreso**, por lo que aún están pendientes por hacer las siguientes tareas:
 
 * Completar los notebooks:
     - [Control de Versiones GIT](00_control_git.ipynb).
-    - [Scipy](04_scipy.ipynb).
-    - [Statsmodels](05_statsmodels.ipynb).
-    - [Pandas](06_pandas.ipynb).
-    - [Scikit Learn](07_scikit_learn.ipynb).
+    - [Scipy](05_scipy.ipynb).
+    - [Statsmodels](06_statsmodels.ipynb).
+    - [Pandas](07_pandas.ipynb).
+    - [Scikit Learn](08_scikit_learn.ipynb).
 * Añadir líneas a los títulos de segundo nivel en todos los notebooks.
 
 ## Contribuciones.
