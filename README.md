@@ -17,8 +17,8 @@
 * [**Numpy**](03_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
 * [**Matplotlib**](04_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
 * [**Scipy**](05_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
+* [**Pandas**](06_pandas.ipynb): Librería para el procesamiento de datos.
 * [**Statsmodels**](06_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
-* [**Pandas**](07_pandas.ipynb): Librería para el procesamiento de datos.
 * [**Scikit Learn**](08_scikit_learn.ipynb): Librería para el desarrollo de modelos de *Aprendizaje Automático*.
 
 ## Dependencias.
@@ -30,9 +30,9 @@ Este proyecto requiere la instalación de las siguientes dependencias externas:
 * *Matplotlib 3.0.3*
 * *Seaborn 0.9.0*
 * *Scipy 1.3.0*
-* *Statsmodels 0.10.0*
 * *Xlrd 1.2.0*
 * *Pandas 0.24.2*
+* *Statsmodels 0.10.0*
 * *Scikit Learn 0.21.2*
 
 Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse todas mediante la ejecución de una única instrucción en la terminal:
@@ -48,7 +48,7 @@ Este repositorio es un **trabajo en progreso**, por lo que aún están pendiente
     - [Control de Versiones GIT](00_control_git.ipynb).
     - [Scipy](05_scipy.ipynb).
     - [Statsmodels](06_statsmodels.ipynb).
-    - [Pandas](07_pandas.ipynb).
+    - [Pandas](06_pandas.ipynb).
     - [Scikit Learn](08_scikit_learn.ipynb).
 * Añadir líneas a los títulos de segundo nivel en todos los notebooks.
 
