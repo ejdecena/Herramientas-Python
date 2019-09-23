@@ -53,7 +53,7 @@ Este repositorio es un **trabajo en progreso**, por lo que aún están pendiente
 
 ## Contribuciones.
 
-Este repositorio es de *código abierto*; lo que quiere decir que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bienvenidas, incluyendo:
+Este repositorio es de *código abierto*; lo que significa que cualquier persona interesada puede contribuir en él. Todas las contribuciones serán bienvenidas, incluyendo:
 
 * Correcciones ortográficas.
 * Nuevas figuras.
