@@ -11,7 +11,6 @@
 
 ## Indice de contenido.
 
-* [**Control de Versiones GIT**](00_control_git.ipynb): Guía de uso del sistema de control de versiones GIT.
 * [**Lenguaje Python**](01_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
 * [**Jupyter Notebook**](02_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
 * [**Numpy**](03_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
@@ -45,7 +44,6 @@ pip install -r requirements.txt
 Este repositorio es un **trabajo en progreso**, por lo que aún están pendientes por hacer las siguientes tareas:
 
 * Completar los notebooks:
-    - [Control de Versiones GIT](00_control_git.ipynb).
     - [Scipy](05_scipy.ipynb).
     - [Statsmodels](06_statsmodels.ipynb).
     - [Scikit Learn](08_scikit_learn.ipynb).
