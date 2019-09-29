@@ -7,18 +7,16 @@
 ## Desarrolladores.
 
 * [Ing. Edgard Decena.](mailto:edecena@gmail.com)
-* [Ing. Luís Acevedo.](mailto:laar19@protonmail.com)
+* [Ing. Luís Acevedo.](mailto:laar@protonmail.com)
 
 ## Indice de contenido.
 
-* [**Lenguaje Python**](01_lenguaje_python.ipynb):  Guía de referencias para la instalación e introducción rápida al lenguaje *Python*.
-* [**Jupyter Notebook**](02_jupyter_notebook.ipynb): Entorno de desarrollo interactivo de código *Python*.
-* [**Numpy**](03_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
-* [**Matplotlib**](04_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
-* [**Scipy**](05_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
-* [**Pandas**](06_pandas.ipynb): Librería para el procesamiento de datos.
-* [**Statsmodels**](06_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
-* [**Scikit Learn**](08_scikit_learn.ipynb): Librería para el desarrollo de modelos de *Aprendizaje Automático*.
+* [**Numpy**](01_numpy.ipynb): Librería para el manejo y cálculo numérico de matrices y vectores.
+* [**Matplotlib**](02_matplotlib.ipynb): Librería para la visualización de datos en 2D y 3D.
+* [**Scipy**](03_scipy.ipynb): Librería que contiene distintos algoritmos de cálculo numérico y optimización.
+* [**Pandas**](04_pandas.ipynb): Librería para el procesamiento de datos.
+* [**Statsmodels**](05_statsmodels.ipynb): Librería para el análisis y cálculo numérico de funciones estadísticas.
+* [**Scikit Learn**](06_scikit_learn.ipynb): Librería para el desarrollo de modelos de *Aprendizaje Automático*.
 
 ## Dependencias.
 
@@ -39,7 +37,7 @@ Estas dependencias pueden instalarse por separado siguiendo las instrucciones pr
 pip install -r requirements.txt
 ```
 
-## TODO (por hacer).
+## TO DO (por hacer).
 
 Este repositorio es un **trabajo en progreso**, por lo que aún están pendientes por hacer las siguientes tareas:
 
