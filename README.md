@@ -1,3 +1,7 @@
+<div align = "center">
+    <img src = "imagenes/python_logo.jpeg" width = "70" height = "70" />
+</div>
+
 # Herramientas Python.
 
 *Herramientas Python* es un conjunto de notebooks de aprendizaje sobre las librerías fundamentales para los cursos de *Cálculo Numérico* y *Ciencia de Datos* en [*Python*](https://www.python.org).
@@ -42,9 +46,9 @@ pip install -r requirements.txt
 Este repositorio es un **trabajo en progreso**, por lo que aún están pendientes por hacer las siguientes tareas:
 
 * Completar los notebooks:
-    - [Scipy](05_scipy.ipynb).
-    - [Statsmodels](06_statsmodels.ipynb).
-    - [Scikit Learn](08_scikit_learn.ipynb).
+    - [Scipy](03_scipy.ipynb).
+    - [Statsmodels](05_statsmodels.ipynb).
+    - [Scikit Learn](06_scikit_learn.ipynb).
 * Incorporar guías en PDF que complenenten los notebooks.
 
 ## Contribuciones.
