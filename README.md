@@ -25,15 +25,15 @@
 
 Este proyecto requiere la instalación de las siguientes dependencias externas:
 
-* *Jupyter 1.0.0*
-* *Numpy 1.16.4*
-* *Matplotlib 3.0.3*
-* *Seaborn 0.9.0*
-* *Scipy 1.3.0*
-* *Xlrd 1.2.0*
-* *Pandas 0.24.2*
-* *Statsmodels 0.10.0*
-* *Scikit Learn 0.21.2*
+* *Jupyter 1.0.0* (´$ pip install jupyter´)
+* *Numpy 1.16.4* (´$ pip install numpy´)
+* *Matplotlib 3.0.3* (´$ pip install matplotlib´)
+* *Seaborn 0.9.0* (´$ pip install seaborn´)
+* *Scipy 1.3.0* (´$ pip install scipy´)
+* *Xlrd 1.2.0* (´$ pip install xlrd´)
+* *Pandas 0.24.2* (´$ pip install pandas´)
+* *Statsmodels 0.10.0* (´$ pip install statsmodels´)
+* *Scikit Learn 0.21.2* (´$ pip install scikit-learn´)
 
 Estas dependencias pueden instalarse por separado siguiendo las instrucciones propias en cada notebook, o pueden instalarse todas mediante la ejecución de una única instrucción en la terminal:
 ```bash
