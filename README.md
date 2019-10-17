@@ -6,7 +6,7 @@
 
 *Herramientas Python* es un conjunto de notebooks de aprendizaje sobre las librerías fundamentales para los cursos de *Cálculo Numérico* y *Ciencia de Datos* en [*Python*](https://www.python.org).
 
-<img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
+<a href="https://nbviewer.jupyter.org/github/ejdecena/herramientas_python/tree/master/"><img src="https://img.shields.io/badge/Visualizar-nbviewver-orange"/></a> <img src="https://img.shields.io/badge/License-MIT-green" /> <img src="https://img.shields.io/badge/Python-3.5-blue" />
 
 ## Desarrollador.
 
