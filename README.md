@@ -48,7 +48,7 @@ Este repositorio es un **trabajo en progreso**, por lo que aún están pendiente
     - [Scipy](03_scipy.ipynb).
     - [Statsmodels](05_statsmodels.ipynb).
     - [Scikit Learn](06_scikit_learn.ipynb).
-* Incorporar guías en PDF que complenenten los notebooks.
+* Incorporar guías en PDF que complementen los notebooks.
 
 ## Contribuciones.
 
